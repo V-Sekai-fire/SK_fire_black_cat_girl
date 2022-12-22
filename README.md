@@ -32,6 +32,7 @@ Open and resave in blender.
 
 1. Blender
 1. VROID Studio
-1. Unity
+1. Unity on the exact version used by VRChat
 1. UniVRM
 1. Convert VRM prefab to VRChat avatar
+1. Hanatool with Perfect Sync 
