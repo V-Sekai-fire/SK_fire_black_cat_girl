@@ -27,3 +27,11 @@ Export at 2 material groups.
 ## Resave in Blender
 
 Open and resave in blender.
+
+## List of tools
+
+1. Blender
+1. VROID Studio
+1. Unity
+1. UniVRM
+1. Convert VRM prefab to VRChat avatar
