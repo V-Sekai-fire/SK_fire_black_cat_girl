@@ -2,7 +2,10 @@
 
 ## Adjustments
 
-Take the skin color and in KRITA use rgb adjustment at 0.5 numerically for both the body and the skin.
+For both the body and the head texture:
+
+1. Take the skin color and in KRITA use rgb adjustment at 0.5 numerically for both the body and the skin.
+1. Take the skin color and in KRITA use rgb adjustment at 0.5 numerically for both the body and the skin. (again)
 
 Export at 100% bone group decimation.
 
@@ -14,3 +17,9 @@ Export at 2 material groups.
 1. Use vrm to vrc converter
 1. Don't merge meshes.
 1. Keep upper chest.
+1. Swap arms and legs to the first position. See the message.
+1. Change the camera to be a solid sky colour.
+
+## Hana tool and Perfect Sync / Sranipal
+
+1. Use tool.
