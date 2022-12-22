@@ -23,3 +23,7 @@ Export at 2 material groups.
 ## Hana tool and Perfect Sync / Sranipal
 
 1. Use tool.
+
+## Resave in Blender
+
+Open and resave in blender.
